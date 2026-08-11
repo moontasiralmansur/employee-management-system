@@ -1,6 +1,6 @@
 # Employee Management System
 
-A Java-based GUI Employee Management System developed for CSE2104 (Object Oriented Programming Lab) at the University of Liberal Arts Bangladesh (ULAB).
+A Java-based GUI Employee Management System for managing employee records.
 
 ## Academic Context
 
