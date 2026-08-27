@@ -1,0 +1,19 @@
+# Build output
+target/
+out/
+*.class
+
+# Logs
+logs/
+*.log
+
+# IDE - IntelliJ IDEA
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private local-only files
+_ai/
+AGENTS.md
